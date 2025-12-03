@@ -6,6 +6,6 @@ public class AddNumbers
         int y = 20;
         int sum = x + y;
 
-        System.out.println("The sum is = ",sum);
+        System.out.println("The sum is = "+sum);
     }
 }
